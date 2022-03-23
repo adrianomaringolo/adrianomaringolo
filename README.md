@@ -42,4 +42,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Glad you came! ![](https://visitor-badge.glitch.me/badge?page_id=adrianomaringolo)
+### Glad you came! 
+![](https://visitor-badge.glitch.me/badge?page_id=adrianomaringolo)
