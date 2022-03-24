@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/adriano_gomes"><img src="https://github.com/adrianomaringolo/adrianomaringolo/blob/master/devcard.svg" width="400" alt="Adriano Maringolo's Dev Card"/></a>
+<a href="https://app.daily.dev/adriano_gomes"><img src="https://github.com/adrianomaringolo/adrianomaringolo/blob/main/devcard.svg" width="400" alt="Adriano Maringolo's Dev Card"/></a>
 
 ### Glad you came! 
 ![](https://visitor-badge.glitch.me/badge?page_id=adrianomaringolo)
