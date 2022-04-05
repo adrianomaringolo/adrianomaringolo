@@ -14,6 +14,7 @@ Helpfull profile: https://github.com/Gapur/Gapur
 #### Main techs
 
 <!--  -->
+
 <span><img height=40 title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></span>
 <span><img height=40 title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></span>
 <span><img height=40 title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></span>
@@ -21,7 +22,7 @@ Helpfull profile: https://github.com/Gapur/Gapur
 <span><img height=40 title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></span>
 <span><img height=40 title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></span>
 <span><img height=40 title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></span>
-<span><img height=40 title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  </span>
+<span><img height=40 title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> </span>
 <span><img height=40 title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></span>
 <span><img height=40 title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></span>
 <span><img height=40 title="Mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></span>
@@ -31,35 +32,36 @@ Helpfull profile: https://github.com/Gapur/Gapur
 ---
 
 #### About me
+
 Trying to help other developers with mentoring, trainings and carreer contents in the development area!
 
 I've been working with web development since 2009, I've gone through several technologies and functions. Graduated in Information Systems and postgraduate in Digital Media, I am passionate about learning new things, a little bit of a lot of things. Photographer and designer in my spare time, full-time father.
 
 ---
 
-<table border=0>
+<table border="0">
     <tr>
-      <td rowspan=2>
-        <a href="https://app.daily.dev/adriano_gomes"><img src="https://github.com/adrianomaringolo/adrianomaringolo/blob/main/devcard.svg" width="300" alt="Adriano Maringolo's Dev Card"/></a>
-    </td>
-    <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianomaringolo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+        <td rowspan=2>
+            <a href="https://app.daily.dev/adriano_gomes"><img src="https://github.com/adrianomaringolo/adrianomaringolo/blob/main/devcard.svg" width="300" alt="Adriano Maringolo's Dev Card"/></a>
         </td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianomaringolo&layout=compact"/>
+        <td>
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianomaringolo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
         </td>
-        
-        </tr>
-            <tr>
-<td colspan=2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianomaringolo"/>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianomaringolo&layout=compact"/>
+        </td>    
+    </tr>
+    <tr>
+        <td colspan=2>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianomaringolo"/>
         </td>
-        </tr>
+    </tr>
 </table>
 
 ---
 
 Some info about me:
+
 <ul>
     <li>🔭 I’m currently working on my own business</li>
     <li>🌱 I’m currently learning Flutter</li>
