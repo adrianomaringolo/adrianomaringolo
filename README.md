@@ -11,6 +11,26 @@ Helpfull profile: https://github.com/Gapur/Gapur
 
 ---
 
+####Main techs
+
+<!--  -->
+<img height=40 title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height=40 title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height=40 title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height=40 title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height=40 title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height=40 title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />  
+<img height=40 title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img height=40 title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+<img height=40 title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+<img height=40 title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img height=40 title="Mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
+<small>logos from: https://devicon.dev</small>
+
+---
+
+####About me
 Trying to help other developers with mentoring, trainings and carreer contents in the development area!
 
 I've been working with development since 2009, I've gone through several technologies and functions. Graduated in Information Systems and postgraduate in Digital Media, I am passionate about learning new things, a little bit of everything. Photographer and designer in his spare time, full-time father.
