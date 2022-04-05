@@ -39,12 +39,16 @@ I've been working with web development since 2009, I've gone through several tec
 
 <table border=0>
     <tr>
+      <td rowspan=2>
+        <a href="https://app.daily.dev/adriano_gomes"><img src="https://github.com/adrianomaringolo/adrianomaringolo/blob/main/devcard.svg" width="300" alt="Adriano Maringolo's Dev Card"/></a>
+    </td>
     <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianomaringolo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
         </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianomaringolo&layout=compact"/>
         </td>
+        
         </tr>
             <tr>
 <td colspan=2>
@@ -55,22 +59,13 @@ I've been working with web development since 2009, I've gone through several tec
 
 ---
 
-<table border=0>
-    <tr>
-    <td>
-        Some info about me:
-        <ul>
-            <li>🔭 I’m currently working on my own business</li>
-            <li>🌱 I’m currently learning Flutter</li>
-            <li>👯 I’m looking to collaborate on projects to help people and make the world a better place</li>
-            <li>🎨 I love to draw, paint and other artistic hobbies</li>
-        </ul>
-    </td>
-    <td>
-        <a href="https://app.daily.dev/adriano_gomes"><img src="https://github.com/adrianomaringolo/adrianomaringolo/blob/main/devcard.svg" width="200" alt="Adriano Maringolo's Dev Card"/></a>
-    </td>
-        </tr>
-</table>
+Some info about me:
+<ul>
+    <li>🔭 I’m currently working on my own business</li>
+    <li>🌱 I’m currently learning Flutter</li>
+    <li>👯 I’m looking to collaborate on projects to help people and make the world a better place</li>
+    <li>🎨 I love to draw, paint and other artistic hobbies</li>
+</ul>
 
 <!--
 **adrianomaringolo/adrianomaringolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
