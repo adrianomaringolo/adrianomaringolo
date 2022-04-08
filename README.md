@@ -46,8 +46,7 @@ I've been working with web development since 2009, I've gone through several tec
         </td>
         <td>
             <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianomaringolo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-        </td>
-           
+        </td>  
     </tr>
     <tr>
         <td>
