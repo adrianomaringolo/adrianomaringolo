@@ -54,8 +54,5 @@ Every post is published in Portuguese and English.
 
 ---
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=adrianomaringolo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianomaringolo&layout=compact&hide_border=true" alt="Most used languages" />
-
 <sub>Open to freelance work and interesting conversations — the fastest way to reach me is
 [here](https://adrianomaringolo.dev/contact).</sub>
